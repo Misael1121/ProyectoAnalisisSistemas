@@ -1,0 +1,8 @@
+C:\Users\mikha\Downloads\Project\Sistema.Entidades\Sistema.Entidad\obj\Debug\netstandard2.0\Sistema.Entidad.csprojAssemblyReference.cache
+C:\Users\mikha\Downloads\Project\Sistema.Entidades\Sistema.Entidad\obj\Debug\netstandard2.0\Sistema.Entidad.AssemblyInfoInputs.cache
+C:\Users\mikha\Downloads\Project\Sistema.Entidades\Sistema.Entidad\obj\Debug\netstandard2.0\Sistema.Entidad.AssemblyInfo.cs
+C:\Users\mikha\Downloads\Project\Sistema.Entidades\Sistema.Entidad\obj\Debug\netstandard2.0\Sistema.Entidad.csproj.CoreCompileInputs.cache
+C:\Project\Sistema.Entidades\Sistema.Entidad\obj\Debug\netstandard2.0\Sistema.Entidad.csprojAssemblyReference.cache
+C:\Project\Sistema.Entidades\Sistema.Entidad\obj\Debug\netstandard2.0\Sistema.Entidad.AssemblyInfoInputs.cache
+C:\Project\Sistema.Entidades\Sistema.Entidad\obj\Debug\netstandard2.0\Sistema.Entidad.AssemblyInfo.cs
+C:\Project\Sistema.Entidades\Sistema.Entidad\obj\Debug\netstandard2.0\Sistema.Entidad.csproj.CoreCompileInputs.cache

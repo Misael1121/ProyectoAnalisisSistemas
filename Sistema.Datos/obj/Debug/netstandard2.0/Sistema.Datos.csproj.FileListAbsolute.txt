@@ -1,0 +1,15 @@
+C:\Users\mikha\Downloads\Project\Sistema.Entidades\Sistema.Datos\bin\Debug\netstandard2.0\Sistema.Datos.deps.json
+C:\Users\mikha\Downloads\Project\Sistema.Entidades\Sistema.Datos\bin\Debug\netstandard2.0\Sistema.Datos.dll
+C:\Users\mikha\Downloads\Project\Sistema.Entidades\Sistema.Datos\bin\Debug\netstandard2.0\Sistema.Datos.pdb
+C:\Users\mikha\Downloads\Project\Sistema.Entidades\Sistema.Datos\obj\Debug\netstandard2.0\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\mikha\Downloads\Project\Sistema.Entidades\Sistema.Datos\obj\Debug\netstandard2.0\Sistema.Datos.AssemblyInfoInputs.cache
+C:\Users\mikha\Downloads\Project\Sistema.Entidades\Sistema.Datos\obj\Debug\netstandard2.0\Sistema.Datos.AssemblyInfo.cs
+C:\Users\mikha\Downloads\Project\Sistema.Entidades\Sistema.Datos\obj\Debug\netstandard2.0\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\mikha\Downloads\Project\Sistema.Entidades\Sistema.Datos\obj\Debug\netstandard2.0\Sistema.Datos.dll
+C:\Users\mikha\Downloads\Project\Sistema.Entidades\Sistema.Datos\obj\Debug\netstandard2.0\Sistema.Datos.pdb
+C:\Project\Sistema.Entidades\Sistema.Datos\obj\Debug\netstandard2.0\Sistema.Datos.csprojAssemblyReference.cache
+C:\Project\Sistema.Entidades\Sistema.Datos\obj\Debug\netstandard2.0\Sistema.Datos.AssemblyInfoInputs.cache
+C:\Project\Sistema.Entidades\Sistema.Datos\obj\Debug\netstandard2.0\Sistema.Datos.AssemblyInfo.cs
+C:\Project\Sistema.Entidades\Sistema.Datos\obj\Debug\netstandard2.0\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Project\Sistema.Entidades\Sistema.Datos\obj\Debug\netstandard2.0\Sistema.Datos.dll
+C:\Project\Sistema.Entidades\Sistema.Datos\obj\Debug\netstandard2.0\Sistema.Datos.pdb

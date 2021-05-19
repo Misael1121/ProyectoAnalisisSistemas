@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+C:\Project\Sistema.Entidades\Sistema.Web\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Project\Sistema.Entidades\Sistema.Web\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Project\Sistema.Entidades\Sistema.Web\bin\Debug\netcoreapp2.2\Sistema.Web.deps.json
+C:\Project\Sistema.Entidades\Sistema.Web\bin\Debug\netcoreapp2.2\Sistema.Web.runtimeconfig.json
+C:\Project\Sistema.Entidades\Sistema.Web\bin\Debug\netcoreapp2.2\Sistema.Web.runtimeconfig.dev.json
+C:\Project\Sistema.Entidades\Sistema.Web\bin\Debug\netcoreapp2.2\Sistema.Web.dll
+C:\Project\Sistema.Entidades\Sistema.Web\bin\Debug\netcoreapp2.2\Sistema.Web.pdb
+=======
+>>>>>>> b646dd2ad148180edfa3c79d8950851aafae022e
+C:\Project\Sistema.Entidades\Sistema.Web\obj\Debug\netcoreapp2.2\Sistema.Web.csprojAssemblyReference.cache
+C:\Project\Sistema.Entidades\Sistema.Web\obj\Debug\netcoreapp2.2\Sistema.Web.AssemblyInfoInputs.cache
+C:\Project\Sistema.Entidades\Sistema.Web\obj\Debug\netcoreapp2.2\Sistema.Web.AssemblyInfo.cs
+C:\Project\Sistema.Entidades\Sistema.Web\obj\Debug\netcoreapp2.2\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Project\Sistema.Entidades\Sistema.Web\obj\Debug\netcoreapp2.2\Sistema.Web.RazorAssemblyInfo.cache
+C:\Project\Sistema.Entidades\Sistema.Web\obj\Debug\netcoreapp2.2\Sistema.Web.RazorAssemblyInfo.cs
+C:\Project\Sistema.Entidades\Sistema.Web\obj\Debug\netcoreapp2.2\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Project\Sistema.Entidades\Sistema.Web\obj\Debug\netcoreapp2.2\Sistema.Web.dll
+C:\Project\Sistema.Entidades\Sistema.Web\obj\Debug\netcoreapp2.2\Sistema.Web.pdb
+C:\Project\Sistema.Entidades\Sistema.Web\obj\Debug\netcoreapp2.2\Sistema.Web.genruntimeconfig.cache
+C:\Project\Sistema.Entidades\Sistema.Web\bin\Debug\netcoreapp2.2\Sistema.Datos.dll
+C:\Project\Sistema.Entidades\Sistema.Web\bin\Debug\netcoreapp2.2\Sistema.Entidad.dll
+C:\Project\Sistema.Entidades\Sistema.Web\bin\Debug\netcoreapp2.2\Sistema.Datos.pdb
