@@ -75,7 +75,7 @@ namespace Sistema.Web.Controllers
         public async Task<ActionResult<Categoria>> Deletecategoria(int id)
         {
             var Categoria = await _context.Categorias.FindAsync(id);
-            if (categoria == null)
+            if (Categoria == null)
             {
                 return NotFound();
             }

@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Text;
 
 namespace Sistema.Entidad.Almacen
 {
@@ -18,5 +16,7 @@ namespace Sistema.Entidad.Almacen
         public string descripcion { get; set; }
 
         public bool condicon { get; set; }
+
+        public ICollection<Articulo> articulos { get; set; }
     }
 }

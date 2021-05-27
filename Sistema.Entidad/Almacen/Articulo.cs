@@ -24,7 +24,7 @@ namespace Sistema.Entidad.Almacen
         public int stock { get; set; }
 
         public ICollection <Categoria> Idcategorias { get; set; }
-        public ICollection<Usuario> COMPRA_USUARIO { get; set; }
+        public ICollection<Usuarios> COMPRA_USUARIO { get; set; }
 
         public ICollection<Persona> COMPRA_PERSONA { get; set; }
 
